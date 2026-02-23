@@ -1,10 +1,4 @@
 # Ryan Selesnik
 
-
-## Stats
-
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanSelesnik&show_icons=true&theme=transparent)
-
----
-
+Working on AI and Control for autonomous drones. [[repo]](https://github.com/RyanSelesnik/A-Framework-for-Robot-Autonomy) (forked from [@Alex-yanranwang](https://github.com/Alex-yanranwang/A-Framework-for-Robot-Autonomy))
 
